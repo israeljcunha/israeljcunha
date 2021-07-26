@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true)
 
 
 <!--
