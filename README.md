@@ -12,7 +12,7 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 * 💻 Python, Node JS, PHP, Django, Flask
 * 💻 HTML, CSS, JS, VueJS, JQuery
 * 📱 React Native, IONIC, Flutter
-* ⚡ Pandas, Airflow, hadoop, Spark, Elasticsearch, SQL. RestFullAPI, Docker e Kubernetes.
+* ⚡ Pandas, Airflow, hadoop, Spark, Elasticsearch, SQL, RestFullAPI, Docker e Kubernetes.
 * 🌱 SCRUM, LEAN, Squad Scrum, KANBAN, JIRA, UML
 
 
