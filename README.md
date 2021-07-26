@@ -1,6 +1,12 @@
 ### Olá 👋, sou Israel José da Cunha
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israeljcunha)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ## Enegenheiro de Dados
 <!-- ![Enegenheiro de Dados](link about) -->
@@ -44,6 +50,8 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 <br><br>
 
 ---
+
+## Onde me encontrar?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/israeljcunha) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/israel__cunha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://israelcunha.gitlab.io/home/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCcV2u7YnltC6s0upWZmoPHg) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/israel-jos%C3%A9-da-cunha-96b91b4a) 
  
