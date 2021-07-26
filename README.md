@@ -1,4 +1,4 @@
-### Olá 👋, Israel José da Cunha
+### Olá 👋, sou Israel José da Cunha
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true)
 
