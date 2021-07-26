@@ -60,7 +60,6 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 
 </details>
 
-<br><br>
 
 ### Onde me encontrar?
 
