@@ -3,10 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israeljcunha)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 ## Enegenheiro de Dados
 <!-- ![Enegenheiro de Dados](link about) -->
@@ -48,6 +44,22 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 <img align="left" alt="Visual Studio Code" width="26px" style="margin-left:1em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br><br>
+
+---
+
+<details>
+  <summary> :zap: GitHub Status</summary>
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israeljcunha)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary> :zap: GitHub Linguagens</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 ---
 
