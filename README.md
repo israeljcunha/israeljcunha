@@ -36,7 +36,6 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 <img align="left" alt="Node.js" width="26px" style="margin-left:1em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" style="margin-left:1em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
 <br><br>
 
 ### Ferramentas
@@ -45,7 +44,7 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 
 <br><br>
 
----
+
 
 <details>
   <summary> :zap: GitHub Status</summary>
@@ -61,7 +60,7 @@ Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framew
 
 </details>
 
----
+<br><br>
 
 ### Onde me encontrar?
 
