@@ -1,17 +1,27 @@
 ### Olá 👋, sou Israel Cunha
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true)
+<!-- <div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark" />
 </div>
+
 <br />
 
 ## Enegenheiro de Dados
 <!-- ![Enegenheiro de Dados](link about) -->
 
 <div>
-Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framework Django, API Rest Full, Docker, PHP, Scrum, Kamban, Atlassian JIRA, Controle de Versão com Git, UML, LaTeX, C++, RPA, Visual Basic Application, CSS3, HTML5, JavaScript, Big Data, WebScraping, A.I., Redes Neurais, sistemas operacionais Linux e Windows, Bancos de dados relacionais (PostgreSQL, MySQL, MariaDB) e NoSQL(MongoDB, Cassandra). Possuindo conhecimento ainda em IONIC, Flutter, JQuery, Ajax, VueJS e NodeJS.
-Ministrei mais de 100 treinamentos em tecnologia me instituições publicas e privadas, com resultados expressivos, participação em projetos de desenvolvimento de software em multinacional e mais de 50 projetos realizados, atuando como freelancer.
+  <p>
+    Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framework Django, API Rest Full, Docker, PHP, Scrum, Kamban, Atlassian JIRA, Controle de Versão com Git, UML, LaTeX, C++, RPA, Visual Basic Application, CSS3, HTML5, JavaScript, Big Data, WebScraping, A.I., Redes Neurais, sistemas operacionais Linux e Windows, Bancos de dados relacionais (PostgreSQL, MySQL, MariaDB) e NoSQL(MongoDB, Cassandra). Possuindo conhecimento ainda em IONIC, Flutter, JQuery, Ajax, VueJS e NodeJS.
+  </p>
+  <p>
+    Ministrei mais de 100 treinamentos em tecnologia me instituições publicas e privadas, com resultados expressivos, participação em projetos de desenvolvimento de software em multinacional e mais de 50 projetos realizados, atuando como freelancer. 
+  </p>
 </div>
 
 ## Habilidades e Experiência
