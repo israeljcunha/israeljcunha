@@ -1,10 +1,5 @@
 ### Olá 👋, sou Israel Cunha
 
-<!-- <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark" />
@@ -64,11 +59,8 @@
 
 <details>
   <summary> :zap: GitHub Status</summary>
-
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israeljcunha)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
-
 
 ### Onde me encontrar?
 <div> 
