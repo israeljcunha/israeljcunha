@@ -14,7 +14,7 @@
 
 ## Enegenheiro de Dados
 <!-- ![Enegenheiro de Dados](link about) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/israeljcunha/israeljcunha/blob/main/img/snake.svg)
 
 <div>
   <p>
@@ -26,6 +26,7 @@
 </div>
 
 ## Habilidades e Experiência
+
 * 💻 Python, Node JS, PHP, Django, Flask
 * 💻 HTML, CSS, JS, VueJS, JQuery
 * 📱 React Native, IONIC, Flutter
@@ -70,20 +71,12 @@
 
 
 ### Onde me encontrar?
-
-
- <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://israelcunha.gitlab.io/home/)  -->
-
 <div> 
   <a href="https://www.youtube.com/channel/UCcV2u7YnltC6s0upWZmoPHg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/israel__cunha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:israel.cunha@live.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-jos%C3%A9-da-cunha-96b91b4a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/israelcunha" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-
-  <!--  -->
- 
+  <a href="https://gitlab.com/israelcunha" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>  
+  <a href="https://israelcunha.gitlab.io/home/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>  
 </div>
  
-
-<!-- 🔭 Atualmente, estou trabalhando nesta página.  -->
