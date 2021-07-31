@@ -1,8 +1,8 @@
 ### Olá 👋, sou Israel Cunha
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=5&theme=onedark" />
 </div>
 
 <br />
