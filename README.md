@@ -13,7 +13,7 @@
 
 <div>
   <p>
-    Engenheiro de dados, com solidos conhecimentos e experiência em: Python, framework Django, API Rest Full, Docker, PHP, Scrum, Kamban, Atlassian JIRA, Controle de Versão com Git, UML, LaTeX, C++, RPA, Visual Basic Application, CSS3, HTML5, JavaScript, Big Data, WebScraping, A.I., Redes Neurais, sistemas operacionais Linux e Windows, Bancos de dados relacionais (PostgreSQL, MySQL, MariaDB) e NoSQL(MongoDB, Cassandra). Possuindo conhecimento ainda em IONIC, Flutter, JQuery, Ajax, VueJS e NodeJS.
+    Engenheiro de dados, com solidos conhecimentos e experiência em: Python, Django, FastAPI, Flask, API Rest Full, Docker, PHP, Scrum, Kamban, Atlassian JIRA, Controle de Versão com Git, UML, LaTeX, C++, RPA, Visual Basic Application, CSS3, HTML5, JavaScript, Big Data, WebScraping, A.I., Redes Neurais, sistemas operacionais Linux e Windows, Bancos de dados relacionais (PostgreSQL, MySQL, MariaDB) e NoSQL(MongoDB, Cassandra). Possuindo conhecimento ainda em IONIC, Flutter, JQuery, Ajax, VueJS e NodeJS.
   </p>
   <p>
     Ministrei mais de 100 treinamentos em tecnologia me instituições publicas e privadas, com resultados expressivos, participação em projetos de desenvolvimento de software em multinacional e mais de 50 projetos realizados, atuando como freelancer. 
