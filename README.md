@@ -57,11 +57,6 @@
 
 <br><br>
 
-<details>
-  <summary> :zap: GitHub Status</summary>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israeljcunha)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
 ### Onde me encontrar?
 <div> 
   <a href="https://www.youtube.com/channel/UCcV2u7YnltC6s0upWZmoPHg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
