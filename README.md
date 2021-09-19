@@ -8,8 +8,7 @@
 <br />
 
 ## Enegenheiro de Dados
-<!-- ![Enegenheiro de Dados](link about) -->
-![Snake animation](https://github.com/israeljcunha/israeljcunha/blob/main/img/snake.svg)
+![Snake animation](./img/develop-2.gif)
 
 <div>
   <p>
@@ -27,8 +26,7 @@
 * 📱 React Native, IONIC, Flutter
 * ⚡ Pandas, Airflow, hadoop, Spark, Elasticsearch, SQL, RestFullAPI, GraphQL, Docker e Kubernetes.
 * 🌱 SCRUM, LEAN, Squad Scrum, KANBAN, JIRA, UML.
-
-<br>
+<br/>
 
 ### Linguagens
 
