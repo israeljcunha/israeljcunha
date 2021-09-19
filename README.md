@@ -8,6 +8,7 @@
 <br />
 
 ## Enegenheiro de Dados
+
 ![Snake animation](./img/develop-2.gif)
 
 <div>
@@ -26,7 +27,6 @@
 * 📱 React Native, IONIC, Flutter
 * ⚡ Pandas, Airflow, hadoop, Spark, Elasticsearch, SQL, RestFullAPI, GraphQL, Docker e Kubernetes.
 * 🌱 SCRUM, LEAN, Squad Scrum, KANBAN, JIRA, UML.
-<br/>
 
 ### Linguagens
 
