@@ -7,9 +7,14 @@
 
 <br />
 
+![Snake animation](./img/snake.svg)
+
+<br />
+
 ## Enegenheiro de Dados
 
 ![Snake animation](./img/develop-2.gif)
+
 
 <div>
   <p>
