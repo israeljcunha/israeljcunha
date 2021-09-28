@@ -4,11 +4,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=israeljcunha&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeljcunha&langs_count=8&theme=onedark&layout=compact" />
 </div>
-
-<br />
-
-![Snake animation](./img/snake.svg)
-
 <br />
 
 ## Enegenheiro de Dados
@@ -32,6 +27,8 @@
 * 📱 React Native, IONIC, Flutter
 * ⚡ Pandas, Airflow, hadoop, Spark, Elasticsearch, SQL, RestFullAPI, GraphQL, Docker e Kubernetes.
 * 🌱 SCRUM, LEAN, Squad Scrum, KANBAN, JIRA, UML.
+
+![Snake animation](./img/snake.svg)
 
 ### Linguagens
 
